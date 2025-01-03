@@ -2,6 +2,7 @@
 
 A Python-based chatbot powered by NLP and a neural network built with TensorFlow. The chatbot classifies user inputs and provides dynamic responses based on predefined intents.
 
+
 **Features:**   
 - Dynamic Responses: Context-aware replies using machine learning.
 - Customizable: Easily extendable with new intents via intents.json.
